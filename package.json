@@ -9,8 +9,6 @@
   "author": "Dharyl Daniel B. Castaneda",
   "license": "ISC",
   "dependencies": {
-    "faker": "^4.1.0",
-    "lorem-ipsum": "^1.0.4",
-    "random-js": "^1.0.8"
+    "faker": "^4.1.0"
   }
 }
