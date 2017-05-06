@@ -1,0 +1,15 @@
+{
+  "name": "dummy-generator-js",
+  "version": "1.0.0",
+  "description": "Creates dummy objects from passed Mongoose object.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dharyl Daniel B. Castaneda",
+  "license": "ISC",
+  "dependencies": {
+    "lorem-ipsum": "^1.0.4",
+    "random-js": "^1.0.8"
+  }
+}
